@@ -1,0 +1,18 @@
+algoritma luas segitiga:
+
+alas = 25	tinggi = 30
+
+luas = 1/2 * alas * tinggi
+
+= 1/2 * 25 * 30
+
+= 25 * 15
+
+= 375
+
+Pseudocode:
+var luas, alas, tinggi
+alas ← 25
+tinggi ←30
+luas = ½ * 25 * tinggi
+write(375)

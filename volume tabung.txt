@@ -1,0 +1,18 @@
+algoritma  volume tabung:
+
+jari-jari = 3		tinggi = 5	π = 3,14
+
+volume = π * r² * t
+
+= 3,14 * 3² * 5
+
+= 141,3
+
+Pseudocode:
+var volume, jari-jari, tinggi
+jari-jari ← 3
+tinggi ←5
+π ← 3,14
+volume = π * r² * t
+	=  3,14 * 3² * 5
+write(141,3)

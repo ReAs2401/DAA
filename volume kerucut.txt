@@ -1,0 +1,23 @@
+algoritma  volume kerucut:
+
+diameter = 5		tinggi = 4	π = 3,14	jari-jari= diameter/2	
+	   					   		   = 2,5
+
+volume = 1/3 * π * r² * t
+
+= 1/3 * 3,14 * 2,5² * 4
+
+= 157/6
+
+
+Pseudocode:
+var volume, diameter, tinggi
+diameter ← 5
+jari-jari ← 2,5
+tinggi ← 4
+π ← 3,14
+volume =1/3 *  π * r² * t
+	= 1/3 * 3,14 * 2,5² * 4
+write(157/6)
+
+

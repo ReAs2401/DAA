@@ -1,0 +1,10 @@
+cari nilai KPK dari 3 dan 4
+
+Tentukan algoritma dan pseudocodenya
+
+(3,4)
+algoritma: 
+3 * 4 = fpb(3,4) * kpk(3,4)
+kpk(3,4) = (3*4) / fpb(3,4)
+kpk(3,4) = 12 / 1
+kpk(3,4) = 12

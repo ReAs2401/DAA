@@ -1,0 +1,16 @@
+algoritma luas jajar genjang:
+
+panjang = 5		tinggi = 3
+
+luas = panjang * tinggi
+
+= 5 * 3
+
+= 15 
+ 
+Pseudocode:
+var luas, panjang, tinggi
+pajang ← 5
+tinggi ←3
+luas = 5 * 3
+write(15)

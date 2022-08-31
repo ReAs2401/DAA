@@ -1,0 +1,15 @@
+p1 = manggis
+p2 = pisang
+p3 = null
+
+
+p3 = p1  manggis dari piring 1 pindah ke piring 3
+
+p1 = p2   pisang dari piring 2 pindah ke piring 1
+
+p2 = p3 manggis dari piring 3 pindah ke piring 2
+
+
+p1 = pisang
+p2 = manggis
+p3 = null
